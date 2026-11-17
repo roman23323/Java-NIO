@@ -1,0 +1,10 @@
+[
+    {
+        "supplierId": 1,
+        "supplierName": "Поставщик 1"
+    },
+    {
+        "supplierId": 2,
+        "supplierName": "Поставщик 2"
+    }
+]
